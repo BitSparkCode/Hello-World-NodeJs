@@ -13,7 +13,7 @@ Um dieses Projekt lokal zu verwenden, folgen Sie diesen Schritten:
 
 2. Navigieren Sie in das Projektverzeichnis:
    ```bash
-   cd "Hello Worls NodeJs"
+   cd "Hello World NodeJs"
    ```
 
 3. Öffnen Sie die Datei `Hello World.html` in Ihrem bevorzugten Webbrowser.
