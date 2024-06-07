@@ -16,7 +16,7 @@ Um dieses Projekt lokal zu verwenden, folgen Sie diesen Schritten:
    cd "Hello World NodeJs"
    ```
 
-3. Öffnen Sie die Datei `Hello World.html` in Ihrem bevorzugten Webbrowser.
+3. Installieren Sie die notwendigen Abhängigkeiten (in diesem Fall gibt es keine zusätzlichen Abhängigkeiten außer Node.js selbst).
 
 ## Verwendung
 
