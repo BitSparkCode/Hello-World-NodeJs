@@ -20,7 +20,6 @@ Um dieses Projekt lokal zu verwenden, folgen Sie diesen Schritten:
 
 ## Verwendung
 
-Verwendung
 Starten Sie den Server:
 
 ```bash
